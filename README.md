@@ -10,7 +10,7 @@
 - Advanced customization
 - and more!
 
-If you are viewing this otherwise, feel free to do anything you'd like to my code. Proper credit is given along any tools that aren't my work.
+If you are viewing this otherwise, feel free to do anything you'd like to my code. Proper credit is given with any work not my own.
 
 ### This repo is not complete and almost empty.
 
