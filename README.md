@@ -12,8 +12,8 @@
 
 If you are viewing this otherwise, feel free to do anything you'd like to my code. Proper credit is given along any tools that aren't my work.
 
-## This repo is not complete and almost empty.
+### This repo is not complete and almost empty.
 
-## [Documentation / FAQ]()
+### [Documentation / FAQ]()
 
 ```love u mio <3```
