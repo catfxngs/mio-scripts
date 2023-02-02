@@ -1,0 +1,57 @@
+
+Loading plugins from /tmp/.mount_pcsx2-1WRzHH/usr/lib32/pcsx2...
+	Bound   GS: libGSdx-AVX2.so [GSdx (GCC 10.1.0 AVX2/AVX2) 1.2.0]
+	Bound  PAD: libonepad.so [OnePAD 20200505220805 2.0.0]
+	Bound SPU2: libSPU2null.so [SPU2null  0.8.0]
+	Bound CDVD: libCDVDnull.so [CDVDnull Driver 20200505220805 0.6.0]
+	Bound  USB: libUSBnull-0.7.0.so [USBnull Driver 20200505220805 0.7.0]
+	Bound   FW: libFWnull-0.7.0.so [FWnull Driver 20200505220805 0.7.0]
+	Bound DEV9: libdev9ghzdrk-0.4.so [GiGaHeRz's DEV9 Driver 0.4.0]
+Plugins loaded successfully.
+
+Initializing plugins...
+	Init GS
+	Init PAD
+	Init SPU2
+	Init CDVD
+	Init USB
+	Init FW
+	Init DEV9
+Plugins initialized successfully.
+
+Bios Found: USA     v02.00(14/06/2004)  Console
+SetLanguage: 'English (U.S.)' [en_US] is not supported by the operating system
+Shutting down plugins...
+PCSX2 1.6.0-20200505220805- compiled on May 14 2020
+Savestate version: 0x9a0e0000
+
+Host Machine Init:
+	Operating System =  Linux 6.1.8-200.fc37.x86_64 x86_64
+	Physical RAM     =  7683 MB
+	CPU name         =  Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+	Vendor/Model     =  GenuineIntel (stepping 0A)
+	CPU speed        =  1.798 ghz (8 logical threads)
+	x86PType         =  Standard OEM
+	x86Flags         =  bfebfbff 7ffafbbf
+	x86EFlags        =  2c100000
+
+x86 Features Detected:
+	SSE2.. SSE3.. SSSE3.. SSE4.1.. SSE4.2.. AVX.. AVX2.. FMA
+
+Plugins shutdown successfully.
+SetLanguage: 'English (U.S.)' [en_US] is not supported by the operating system
+Installing POSIX SIGSEGV handler...
+Reserving memory for recompilers...
+
+Loading plugins from /tmp/.mount_pcsx2-1WRzHH/usr/lib32/pcsx2...
+	Bound   GS: libGSdx-AVX2.so [GSdx (GCC 10.1.0 AVX2/AVX2) 1.2.0]
+	Bound  PAD: libonepad.so [OnePAD 20200505220805 2.0.0]
+	Bound SPU2: libSPU2null.so [SPU2null  0.8.0]
+	Bound CDVD: libCDVDnull.so [CDVDnull Driver 20200505220805 0.6.0]
+	Bound  USB: libUSBnull-0.7.0.so [USBnull Driver 20200505220805 0.7.0]
+	Bound   FW: libFWnull-0.7.0.so [FWnull Driver 20200505220805 0.7.0]
+	Bound DEV9: libdev9ghzdrk-0.4.so [GiGaHeRz's DEV9 Driver 0.4.0]
+Plugins loaded successfully.
+
+(GameDB) 9858 games on record (loaded in 201ms)
+(GameDB) Unloading...
