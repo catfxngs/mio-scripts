@@ -14,6 +14,6 @@ If you are viewing this otherwise, feel free to do anything you'd like to my cod
 
 ### This repo is not complete and almost empty.
 
-### [Documentation / FAQ]()
+## [Documentation / FAQ](docs/intro.md)
 
 ```love u mio <3```
