@@ -6,13 +6,13 @@
 
 - Simplifying basic tasks
 - Linux system maintenance
-- Pre-configuring emulators for his build
+- Pre-configuring emulators for their build
 - Advanced customization
 - and more!
 
 If you are viewing this otherwise, feel free to do anything you'd like with my code. Credit is given to any work not my own.
 
-### This repo is not complete and relatively empty. Emulation configs and scripts will NOT yet function as intended!
+### This repo is not complete and relatively empty. Emulation configs will NOT yet function as intended!
 
 ## [Documentation / FAQ](docs/intro.md)
 
