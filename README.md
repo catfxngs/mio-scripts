@@ -2,7 +2,7 @@
 
 ![knuckles](knucklesmi.png)![klonoa](klonoami.png)
 
-**This is a collection of scripts and tools intended for my boyfriend's use!**
+**This is a collection of scripts and tools intended for my partner's use!**
 
 - Simplifying basic tasks
 - Linux system maintenance
@@ -10,10 +10,12 @@
 - Advanced customization
 - and more!
 
-If you are viewing this otherwise, feel free to do anything you'd like to my code. Proper credit is given with any work not my own.
+If you are viewing this otherwise, feel free to do anything you'd like with my code. Credit is given to any work not my own.
 
-### This repo is not complete and almost empty.
+### This repo is not complete and relatively empty. Emulation configs and scripts will NOT yet function as intended!
 
 ## [Documentation / FAQ](docs/intro.md)
 
-```love u mio <3```
+## [To-Do List]()
+
+```♡☆♡☆♡☆♡```
