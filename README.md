@@ -16,6 +16,6 @@ If you are viewing this otherwise, feel free to do anything you'd like with my c
 
 ## [Documentation / FAQ](docs/intro.md)
 
-## [To-Do List]()
+## [To-Do List](docs/todo.md)
 
 ```♡☆♡☆♡☆♡```
