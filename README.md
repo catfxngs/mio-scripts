@@ -12,7 +12,9 @@
 
 ## [Documentation / FAQ](docs/intro.md)
 
-If you are viewing this otherwise, feel free to do anything you'd like with my code. Any work not my own includes respective credit.
+If you are viewing this otherwise, feel free to do anything you'd like with my code. 
+
+Any work not my own includes it's respective credit and licenses.
 
 ### This repo is not complete. Emulation configs will NOT yet function as intended!
 
